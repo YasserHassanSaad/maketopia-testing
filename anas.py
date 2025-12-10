@@ -1,1 +1,0 @@
-print("anoos1111")
